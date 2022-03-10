@@ -1,0 +1,10 @@
+This is a C implementation of Linux Terminal with basic functionalities.
+Functinalities:
+1) Date
+2) Calendar
+3) touch
+4) more
+5) man
+
+
+Change the in cout in main function to change the system name.
